@@ -1,5 +1,5 @@
 {
-    "name": "xiag/pdf-merge",
+    "name": "jamayka/pdf-merge",
     "description": "PDF merge HTTP tool",
 
     "require": {
